@@ -159,7 +159,8 @@ En plus de raviver narrativement un souvenir chez le joueur.euse et chez le pers
 
 ¹*immersion systémique : "son principe repose sur la connaissance et la maîtrise des règles et des procédures de l’expérience [...]. Le visiteur peut être amené au cours d’une **exposition immersive**, à exécuter des actions. Celles-ci vont provoquer chez lui des émotions."
 Source : [neodigital](https://www.neodigital.fr/les-3-principaux-types-dimmersions-dans-les-experiences-culturelles/#:~:text=L%27immersion%20systémique%20renvoie%20donc,cas%20d%27un%20jeu%20vidéo.)
-Source : [La narration dans le jeu vidéo (ma vidéo youtube sur le sujet)](https://www.youtube.com/watch?v=z-eUo7Oa8Pk&t)*
+Source : [La narration dans le jeu vidéo (ma vidéo youtube sur le sujet)](https://www.youtube.com/watch?v=z-eUo7Oa8Pk&t)
+A lire aussi mon article sur le sujet : [[Les différents types d'immersions]]*
 
 
 Cette incapacité à jouer se traduit **une dernière fois** quand le joueur arrive à la fin de l’aventure.  
